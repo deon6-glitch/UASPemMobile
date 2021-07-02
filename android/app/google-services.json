@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "760803322102",
+    "project_id": "bukuku-b0f73",
+    "storage_bucket": "bukuku-b0f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760803322102:android:b8e6f589244679a2a1e4d7",
+        "android_client_info": {
+          "package_name": "com.example.bukuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760803322102-mkdamqh0gvpcr91667b56s5hli099abr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vffX-TJNPVrCDIzGpIJ639qbhoyJfWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760803322102-mkdamqh0gvpcr91667b56s5hli099abr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760803322102-u8fgo9rkmbeqnoaflpnpl2eep9co9elv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bukuku"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
